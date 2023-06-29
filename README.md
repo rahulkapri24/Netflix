@@ -1,5 +1,7 @@
 # Getting Started with Create React App and Redux -Netflix Clone
 
+**Website link** ---    https://netflix-clone-app-e6b7f.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 This project is a Netflix clone website built using React, Redux, and Firebase. It aims to replicate the main features and design of the popular streaming platform Netflix. The application fetches movie and TV show data from the TMDb (The Movie Database) API and provides a user-friendly interface for browsing and streaming content.
