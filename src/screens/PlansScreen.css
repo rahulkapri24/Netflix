@@ -1,0 +1,63 @@
+
+.planScreen_info_l{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.8;
+    padding-top: 10px;
+
+}
+.planScreen_info_l:hover{
+    opacity: 1;
+}
+
+.planScreen_info_l >button{
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 600;
+    background-color: #e50914; 
+    border: none;
+    cursor: pointer;
+}
+.planScreen_info_p >button{
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 600;
+    background-color: #e50914;
+    border: none;
+    cursor: pointer;
+}
+
+.planScreen_info_p{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.8;
+
+}
+.planScreen_info_p:hover{
+    opacity: 1;
+}
+
+.planScreen_info_b >button{
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 600;
+    background-color: #e50914;
+    border: none;
+    cursor: pointer;
+}
+
+.planScreen_info_b{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.8;
+
+}
+.planScreen_info_b:hover{
+    opacity: 1;
+}
